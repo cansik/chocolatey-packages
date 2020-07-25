@@ -1,2 +1,2 @@
-# chocolatey-packages
-Packages released to chocolatey.
+# Chocolatey Packages
+Packages released to [chocolatey](https://chocolatey.org/profiles/cansik).
