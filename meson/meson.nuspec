@@ -8,7 +8,7 @@
     <owners>cansik</owners>
     <licenseUrl>https://mesonbuild.com/legal.html</licenseUrl>
     <projectUrl>https://mesonbuild.com/</projectUrl>
-    <iconUrl>https://mesonbuild.com/assets/images/meson_logo.png</iconUrl>
+    <iconUrl>https://github.com/cansik/chocolatey-packages/blob/master/icons/meson.png?raw=true</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Meson is an open source build system meant to be both extremely fast, and, even more importantly, as user friendly as possible.
 
@@ -17,7 +17,7 @@ The main design point of Meson is that every moment a developer spends writing o
     <releaseNotes>https://github.com/mesonbuild/meson/releases/tag/0.55.0</releaseNotes>
     <tags>audio video recording streaming codec</tags>
     <projectSourceUrl>https://github.com/mesonbuild/meson</projectSourceUrl>
-    <packageSourceUrl>https://github.com/cansik/chocolatey-packages</packageSourceUrl>
+    <packageSourceUrl>https://github.com/cansik/chocolatey-packages/tree/master/meson</packageSourceUrl>
     <mailingListUrl>https://groups.google.com/forum/#!forum/mesonbuild</mailingListUrl>
     <bugTrackerUrl>https://github.com/mesonbuild/meson/issues</bugTrackerUrl>
   </metadata>
