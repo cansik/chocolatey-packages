@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>meson</id>
-    <version>0.55.0</version>
+    <version>0.63.0</version>
     <title>The Meson Build system</title>
     <authors>Jussi Pakkanen</authors>
     <owners>cansik</owners>
@@ -14,7 +14,7 @@
 
 The main design point of Meson is that every moment a developer spends writing or debugging build definitions is a second wasted. So is every second spent waiting for the build system to actually start compiling code.</description>
     <summary>Meson is an open source build system meant to be both extremely fast, and, even more importantly, as user friendly as possible.</summary>
-    <releaseNotes>https://github.com/mesonbuild/meson/releases/tag/0.55.0</releaseNotes>
+    <releaseNotes>https://github.com/mesonbuild/meson/releases/tag/0.63.0</releaseNotes>
     <tags>build system native source multiplatform</tags>
     <projectSourceUrl>https://github.com/mesonbuild/meson</projectSourceUrl>
     <packageSourceUrl>https://github.com/cansik/chocolatey-packages/tree/master/meson</packageSourceUrl>

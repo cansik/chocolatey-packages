@@ -12,7 +12,7 @@ $packageArgs = @{
   fileType        = "msi"
   silentArgs      = "${silentArgs}"
   validExitCodes  = @(0)
-  checksum64      = "1de449d672e7b66ee8ef646e8b06f6ce323ce671f31cba751a3e79cf3c59d3e3"
+  checksum64      = "c6c06e2f4b49c2935e618675f2b41d832ab9091e06517b5227f180e593d5e8af"
   checksumType64  = "sha256"
 }
 
